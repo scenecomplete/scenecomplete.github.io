@@ -54,6 +54,20 @@ body {
     font-weight: 500;
     letter-spacing: 0;
 }
+
+.publication-venue {
+    font-family: 'Google Sans',sans-serif;
+    color: #333;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 500;
+    letter-spacing: 0;
+}
+
+.is-3 {
+    font-size: 2rem;
+}
+
 .tldr {
     margin-top: 30px;
     margin-bottom: 3px;
