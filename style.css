@@ -168,7 +168,7 @@ body {
 }
 
 .icon-col {
-    width: 33.33333%;
+    width: 25%;
 }
 
 .icon-img {
@@ -193,6 +193,13 @@ body {
     opacity: .62;
 }
 
+.arxiv-img-icon {
+    max-width: 20%;
+    margin-top: 6px;
+    margin-bottom: 9px;
+    opacity: .9;
+}
+
 .link-block {
     display: block;
     max-width: 100%;
@@ -204,7 +211,7 @@ body {
 
 .link-labels {
     display: inline-block;
-    width: 60%;
+    width: 80%;
     margin-top: 5px;
 }
 
